@@ -1,0 +1,112 @@
+[
+  {
+    "art_id": 115,
+    "clave": 3499320001205,
+    "claveAlterna": "",
+    "promocion": "TASA 0-3",
+    "descripcion": "DESOWEN DESONIDA 0,05% CREMA 30 G",
+    "precio": 396.549,
+    "caracteristicas": "ES UN ESTEROIDE DE MEDIANA POTENCIA QUE ESTA INDICADO PARA EL ALIVIO DE LAS MANIFESTACIONES INFLAMATORIAS Y PRURÃ­TICAS DE LAS DERMATOSIS QUE RESPONDEN A LOS CORTICOSTEROIDES TÓPICOS DE MEDIANA POTENCIA",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 122,
+    "clave": 3499320001618,
+    "claveAlterna": "",
+    "promocion": "TASA 0-7",
+    "descripcion": "DESOWEN LOCIÃ“N DESONIDA 0,05% 60ML",
+    "precio": 458.621,
+    "caracteristicas": "ES UN ESTEROIDE DE MEDIANA POTENCIA QUE ESTA INDICADO PARA EL ALIVIO DE LAS MANIFESTACIONES INFLAMATORIAS Y PRURÃ­TICAS DE LAS DERMATOSIS QUE RESPONDEN A LOS CORTICOSTEROIDES TÓPICOS DE MEDIANA POTENCIA",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 124,
+    "clave": 7502002461313,
+    "claveAlterna": "",
+    "promocion": "TASA 0-4",
+    "descripcion": "BPOLLEN DUO CLINDAMICINA, PEROXIDO DE BENZOILO GEL 1%/5%  30G",
+    "precio": 705.603,
+    "caracteristicas": "",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 126,
+    "clave": 7502002461818,
+    "claveAlterna": "",
+    "promocion": "TASA 0-10",
+    "descripcion": "LASMA SKIN HIDROQUINONA CREMA 4% 30G",
+    "precio": 458.004,
+    "caracteristicas": "LASMASKIN 4% PUEDE AYUDAR A DISMINUIR Y MEJORAR LA APARIENCIA POR MANCHA DE SOL, PAÑO POR EMBARAZO, O PAÑO POR EDAD ,PECAS EN MANOS, CUELLO, AXILAS, MELASMA Y OSCURECIMIENTO EN ALGUNOS PLIEGES DEL CUERPO\n\nAYUDA A DISMINUIR LAS MANCHAS OSCURAS CAUSADAS POR LA EXPOSICIÃ³N EXCESIVA AL SOL Y LA EDAD TALES COMO MELASMA, PECAS EN ROSTRO Y ALGUNAS PARTES DEL CUERPO.",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 127,
+    "clave": 3499320001342,
+    "claveAlterna": "",
+    "promocion": "TASA 0-11",
+    "descripcion": "NUTRACORT HIDROCORTISONA CREMA 1%  60G",
+    "precio": 479.5,
+    "caracteristicas": "NUTRACORT ES UNA CREMA DERMATOLÓGICA INDICADA PARA EL TRATAMIENTO DE DERMATITIS ATÓPICA, DERMATITIS POR CONTACTO, ECZEMA DE PIES Y MANOS",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 130,
+    "clave": 3499320002448,
+    "claveAlterna": "",
+    "promocion": "TASA 0-13",
+    "descripcion": "TRI-LUMA CREMA 15G",
+    "precio": 1147.5,
+    "caracteristicas": "CREMA TRI LUNA DERMATOLÓGICA. RECOMENDADA PARA EL TRATAMIENTO DE LA MELASMA EN ROSTRO. CUIDA LA PIEL SENSIBLE DE LOS RAYOS DEL SOL",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 149,
+    "clave": 7502002461290,
+    "claveAlterna": "",
+    "promocion": "TASA 0-6",
+    "descripcion": "BPOLLEN PEROXIDO DE BENZOILO GEL 2.5%  60G",
+    "precio": 241.379,
+    "caracteristicas": "",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 363,
+    "clave": 7502275470500,
+    "claveAlterna": "",
+    "promocion": "TASA 0-9",
+    "descripcion": "EFFEZEL GEL 0.3% ADAPALENO 30G",
+    "precio": 1031.0,
+    "caracteristicas": "GEL INDICADO PARA EL TRATAMIENTO TÓPICO DEL ACNÉ VULGARIS Y ACNÉ INFLAMATORIO PAPULOPUSTULOSO DE MODERADO A SEVERO EN PACIENTES DE 12 AÑOS DE EDAD Y MAYORES\n\nBENEFICIOS:\n\nNORMALIZA LA DIFERENCIACIÃ³N DE CÃ©LULAS EPITELIALES FOLICULARES, LO QUE RESULTA EN UNA DISMINUCIÃ³N DE LA FORMACIÃ³N DE MICROCOMEDONES.\n\nACTIVIDAD ANTIMICROBIANA FRENTE A PROPIONIBACTERIUM ACNES MEDIANTE LA LIBERACIÃ³N DE RADICALES LIBRES DE OXÃ­GENO QUE OXIDAN LAS PROTEÃ­NAS DEL GERMEN.\n\nADEMÃ¡S POSEE ACTIVIDAD EXFOLIATIVA Y QUERATOLÃ­TICA QUE PRODUCE COMED?LISIS.",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 364,
+    "clave": 7501258214285,
+    "claveAlterna": 7501258203234.0,
+    "promocion": "TASA 0-12",
+    "descripcion": "TRADERMA TRACROLIMUS UNGÃœENTO 0.1% 10G",
+    "precio": 497.414,
+    "caracteristicas": "",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  },
+  {
+    "art_id": 427,
+    "clave": 3499320004237,
+    "claveAlterna": "",
+    "promocion": "TASA 0-8",
+    "descripcion": "EFFEZEL GEL 0.1% 30G",
+    "precio": 858.002,
+    "caracteristicas": "",
+    "status": "ACTIVO",
+    "duracion": "2026-09-30"
+  }
+]
